@@ -1,0 +1,8 @@
+com\worldline\PerfectNumbersApplication.class
+com\worldline\assignment\util\OperationsUtil.class
+com\worldline\assignment\controller\NumberController.class
+com\worldline\assignment\service\impl\NumberServiceImpl.class
+com\worldline\assignment\config\MdcInterceptor.class
+com\worldline\assignment\service\NumberService.class
+com\worldline\assignment\config\WebMvcConfiguration.class
+com\worldline\assignment\dto\ResponseDTO.class
